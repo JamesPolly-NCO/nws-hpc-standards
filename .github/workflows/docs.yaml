@@ -30,7 +30,8 @@ jobs:
 
     permissions:
       pull-requests: "write"
-      contents: "read"
+      issues: "write"
+      contents: "write"
 
     runs-on: ubuntu-latest
     name: Build and deploy documentation
