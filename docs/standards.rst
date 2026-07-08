@@ -666,6 +666,7 @@ A. Code Delivery
 ----------------
 
 Delivered code must:
+
 * contain any production bug fixes implemented since the last code delivery.
 * only contain changes that were defined at project kickoff, and are needed for the production environment.
 
