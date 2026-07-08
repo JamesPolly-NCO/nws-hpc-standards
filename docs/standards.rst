@@ -23,9 +23,8 @@ A two-digit semantic versioning schema (MAJOR.MINOR) will be used to release ver
 ii. Version Accountability
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- New models are expected to comply with the most recently released version of the standards, as of the date of the project kickoff.
-- Upgrades to existing packages are expected to comply with the most recently released version of the standards.
-- Active production packages are exempt from adopting changes to standards made since implementation. Existing packages will be brought into compliance with the latest version of the standards during the next upgrade.
+- New packages, and upgrades to existing packages, are expected to comply with the most recently released version of the standards, as of the date of the project kickoff.
+- Active production packages will be brought into compliance with the latest version of the standards during the next upgrade.
 
 
 iii. Contributing
